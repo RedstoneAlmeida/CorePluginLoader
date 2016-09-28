@@ -7,3 +7,4 @@ CorePluginLoader load you .phar and paste plugins in other pastes ;D
 
 ## What make plugins for CorePluginLoader?
 - Create a plugin folder, and put in plugin folder to src and core.yml(is plugin.yml renamed)
+- Example : Core-master/src, Core-master/core.yml
