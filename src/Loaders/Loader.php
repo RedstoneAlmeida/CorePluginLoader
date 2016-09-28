@@ -4,6 +4,11 @@ namespace Loaders;
 
 use pocketmine\plugin\PluginBase;
 
+use CoreLoader\PLoader;
+
+use pocketmine\plugin\PluginLoadOrder;
+use pocketmine\Server;
+
 class Loader extends PluginBase{
   
   public function onEnable(){
